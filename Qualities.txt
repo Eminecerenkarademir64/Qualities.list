@@ -1,0 +1,5 @@
+spotify;
+1.Kişiselleştirilmiş Çalma Listeleri 
+2.Çevrimdışı Dinleme Modu 
+3.Podcast ve Sesli Kitap Desteği 
+4.Cihazlar Arası Senkronizasyon
