@@ -3,4 +3,5 @@ spotify;
 2.Çevrimdışı Dinleme Modu 
 3.Podcast ve Sesli Kitap Desteği 
 4.Cihazlar Arası Senkronizasyon
+5.Uçtan uca şİfreleme      kkk
 
